@@ -92,7 +92,7 @@ In this file we configure models for the students and teachers. We also create m
 In this file we configure the pages and links with html templates. We link the fuctions with html pages for the users who have successfully logged in or throw an error if there was any error while login-in. This file also helps the fuctions that are used to sign-in/register to link with their respective html pages. This file also contains fuctions that help to authenticate the user and check if the username and password is right or wrong. So basically we use this file to link the html pages with thier respective fuctions and also this file checks the authentication process of the project.(https://github.com/shaun2015/School-Information-system/blob/main/student_management_app/views.py)
 
 
-### Contribution Report
+### Report
 
 ### Shaun Christopher Chaudhary (10622059@mydbs.ie)
 
